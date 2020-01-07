@@ -12,9 +12,35 @@ padding-top: 108px;
     width: 350px;
     height: 20px;
     border-radius: 18px;
+    background-image: url(https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
 }
 .box{
 margin-left: 40%;
 margin-top: 20px;
 font-size: 25pt;
+}
+#box2{
+font-size: 25pt;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position:fixed;
+    width: 100%;
+    font-family: arial,sans-serif;
+}
+li{
+    display:inline;
+    margin-left: 20px;
+}
+#top{
+    top:10px;
+}
+.right{
+    margin-right: 20px;
+    float: right;
 }
